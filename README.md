@@ -1,3 +1,3 @@
 # quadrigma
 
-[https://knowyourmeme.com/memes/trollface](Quadrigma Industries)
+[Quadrigma](https://knowyourmeme.com/memes/trollface/)

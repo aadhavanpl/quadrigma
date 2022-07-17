@@ -1,0 +1,26 @@
+.frame1 {
+    width: 420px;
+    display: flex;
+    padding: 10px;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: rgba(231, 231, 231, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    justify-content: center;
+  }
+  .text04 {
+    color: var(--dl-color-default-gray3);
+    height: auto;
+    font-size: 14px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Nunito Sans;
+    font-weight: 700px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }

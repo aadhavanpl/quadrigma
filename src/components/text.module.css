@@ -1,0 +1,49 @@
+.frame3 {
+    width: 420px;
+    display: flex;
+    padding: 13px 10px;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: rgba(222, 210, 217, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+  }
+  .text10 {
+    color: var(--dl-color-default-gray5);
+    height: auto;
+    font-size: 14px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Nunito Sans;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+
+  ::placeholder {
+    width: 92px;
+height: 19px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+/* identical to box height */
+
+
+/* Gray 5 */
+
+color: #E0E0E0;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+  }
